@@ -480,7 +480,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
                           const EdgeInsetsDirectional.fromSTEB(16.0, 0.0, 16.0, 0.0),
                       iconPadding:
                           const EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
-                      color: FlutterFlowTheme.of(context).primary,
+                      color: const Color(0xFF57BFF2),
                       textStyle:
                           FlutterFlowTheme.of(context).labelMedium.override(
                                 fontFamily: 'Inter',
